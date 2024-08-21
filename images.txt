@@ -1,4 +1,67 @@
-nginx
-#支持私库
-xhofe/alist:latest
-nyanmisaka/jellyfin:latest
+#服务器基础运维工具
+6053537/portainer-ce #容器管理器
+filebrowser/filebrowser #文件管理器
+gdy666/lucky #反向代理工具lucky
+
+#其他服务器运维工具
+fmartinou/whats-up-docker #WUD docker更新监控
+mouday/domain-admin #SSL证书监控
+alcapone1933/composerize #docker-composerize服务
+cturra/ntp #NTP时间服务器
+
+#流媒体工具
+nyanmisaka/jellyfin #硬解的jellyfin服务
+lovechen/embyserver #开心版Emby
+jxxghp/moviepilot #MoivePilot媒体刮削工具
+suwmlee/ikaros #ikaros刮削工具
+allanpk716/chinesesubfinder #中文字幕下载
+deluan/navidrome #音乐管理器
+xhongc/music_tag_web #web版音乐标签管理器
+
+#文件及下载工具
+xhofe/alist #alist网盘应用
+p3terx/aria2-pro #aria2c下载管理器
+messense/aliyundrive-webdav #阿里云盘webdav
+funcman/115pc #linux的115客户端
+
+#其他个人使用工具
+b4bz/homer #个人主页服务
+vaultwarden/server #密码管理器
+finab/bark-server #推送服务
+whyour/qinglong #青龙面板
+neosmemo/memos #闪念记录应用
+wallabag/wallabag #wallabag稍后阅读
+johngong/calibre-web #calibre创建的图书管理应用
+mmmz/trwebocr #OCR识别
+
+#博客相关工具
+doocs/md #markdown转html服务
+imaegoo/twikoo #hexo的评论插件
+halcyonazure/lsky-pro-docker #lsky图床（已弃用）
+linuxserver/piwigo #piwigo相册
+shaneisrael/fireshare #自建视频管理应用
+
+#AIGC相关工具
+lobehub/lobe-chat #网页版ChatGPT(lobe-chat)
+yidadaa/chatgpt-next-web #网页版ChatGPTforOpenAi
+ghcr.io/bclswl0827/chatgemini #Google的GeminiAI
+techxiaofei/bot-on-anything #微信公众号版的ChatGPT
+lmk123/migpt-server #小爱音箱接入AIGC
+
+#homeassistant相关工具
+homeassistant/home-assistant #HAOS
+nodered/node-red #node-red
+emqx/emqx #EMQX的MQTT服务
+koenkk/zigbee2mqtt #z2m服务
+
+#服务器通用工具
+nginx:latest #nginx
+bytemark/webdav #webdav服务
+mariadb #mariadb数据库
+phpmyadmin #数据库管理工具
+couchdb #couchdb数据库服务
+
+#翻墙用到的工具
+tindy2013/subconverter #梯子转换服务
+stilleshan/sub #subconverter梯子转换服务配套前端界面
+ghcr.io/xmdhs/clash2sfa #clash订阅转换为sing订阅

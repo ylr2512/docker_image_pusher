@@ -60,6 +60,11 @@ johngong/calibre-web
 #OCR识别
 mmmz/trwebocr 
 
+#headscale异地组网
+#主服务
+headscale/headscale:0.23.0-alpha12
+#admin管理界面
+goodieshq/headscale-admin
 #博客相关工具
 #markdown转html服务
 doocs/md 
@@ -70,7 +75,10 @@ halcyonazure/lsky-pro-docker
 #piwigo相册
 linuxserver/piwigo 
 #自建视频管理应用
-shaneisrael/fireshare 
+shaneisrael/fireshare
+#frps服务
+snowdreamtech/frps
+snowdreamtech/frpc
 
 #AIGC相关工具
 #网页版ChatGPT(lobe-chat)

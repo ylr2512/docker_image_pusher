@@ -65,6 +65,9 @@ mmmz/trwebocr
 headscale/headscale:0.23.0-alpha12
 #admin管理界面
 goodieshq/headscale-admin
+#ui管理面板
+ghcr.io/gurucomputing/headscale-ui
+
 #博客相关工具
 #markdown转html服务
 doocs/md 

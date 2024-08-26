@@ -40,7 +40,9 @@ p3terx/aria2-pro
 #阿里云盘webdav
 messense/aliyundrive-webdav 
 #linux的115客户端
-funcman/115pc 
+funcman/115pc
+#syncthing同步客户端
+lscr.io/linuxserver/syncthing
 
 #其他个人使用工具
 #个人主页服务

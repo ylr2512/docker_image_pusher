@@ -42,7 +42,7 @@ messense/aliyundrive-webdav
 #linux的115客户端
 funcman/115pc
 #syncthing同步客户端
-lscr.io/linuxserver/syncthing
+syncthing/syncthing
 
 #其他个人使用工具
 #个人主页服务

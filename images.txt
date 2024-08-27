@@ -30,7 +30,9 @@ allanpk716/chinesesubfinder
 #音乐管理器
 deluan/navidrome 
 #web版音乐标签管理器
-xhongc/music_tag_web 
+xhongc/music_tag_web
+#xiaoya超集
+xiaoyaliu/alist
 
 #文件及下载工具
 #alist网盘应用

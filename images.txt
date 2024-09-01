@@ -71,6 +71,8 @@ headscale/headscale:0.23.0-alpha12
 goodieshq/headscale-admin
 #ui管理面板
 ghcr.io/gurucomputing/headscale-ui
+fredliang/derper
+tailscale/tailscale
 
 #博客相关工具
 #markdown转html服务

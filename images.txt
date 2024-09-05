@@ -44,7 +44,7 @@ messense/aliyundrive-webdav
 #linux的115客户端
 funcman/115pc
 #syncthing同步客户端
-syncthing/syncthing
+lscr.io/linuxserver/syncthing
 #samba share文件服务器
 dockurr/samba
 

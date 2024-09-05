@@ -46,9 +46,9 @@ funcman/115pc
 #syncthing同步客户端
 lscr.io/linuxserver/syncthing
 #Syncthing中继服务器
-syncthing_relay_server
+syncthing/relaysrv
 #Syncthing发现服务器
-syncthing-relay-discosrv
+syncthing/discosrv
 #samba share文件服务器
 dockurr/samba
 

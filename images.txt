@@ -4,7 +4,9 @@
 #文件管理器
 filebrowser/filebrowser 
 #反向代理工具lucky
-gdy666/lucky 
+gdy666/lucky
+#传统的好用的npm
+jc21/nginx-proxy-manager
 
 #其他服务器运维工具
 #WUDdocker更新监控

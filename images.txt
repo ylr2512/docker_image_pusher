@@ -1,6 +1,8 @@
 #服务器基础运维工具
 #容器管理器
-6053537/portainer-ce 
+6053537/portainer-ce
+#中文容器管理器
+dpanel/dpanel:lite
 #文件管理器
 filebrowser/filebrowser 
 #反向代理工具lucky

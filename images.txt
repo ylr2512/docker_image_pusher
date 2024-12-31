@@ -9,6 +9,8 @@ filebrowser/filebrowser
 gdy666/lucky
 #传统的好用的npm
 jc21/nginx-proxy-manager
+#1panel运维面板
+moelin/1panel
 
 #其他服务器运维工具
 #WUDdocker更新监控

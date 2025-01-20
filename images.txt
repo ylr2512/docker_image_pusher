@@ -147,7 +147,8 @@ stilleshan/sub
 #clash订阅转换为sing订阅
 ghcr.io/xmdhs/clash2sfa 
 
-
+#备份软件
+duplicati/duplicati
 
 #测速软件
 ghcr.io/librespeed/speedtest
